@@ -15,7 +15,7 @@ const menuData = {
     name: "1. Single Cheese Burger",
     price: "$8.49",
     ingredients: "American Cheese, Lettuce, Tomato, Grilled Onion, Mayo, Mustard, Ketchup & Pickle",
-    image: "/images/1.singlecheese.jpg"
+    image: "1.singlecheese.jpg"
   },
   {
     name: "2. Double Cheese Burger",
